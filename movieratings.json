@@ -1,0 +1,138 @@
+{
+ "Julia Roberts": 
+ {
+	 "Shrek": 2.5,
+	 "V for Vendetta": 3.5,
+	 "Pretty Woman": 1.5,
+	 "My Sister's Keeper":5.0,
+	 "Star Wars": 3.5,
+	 "Coco":4.0,
+	 "Legally Blonde":3.0,
+	 "Me Before You": 3.0,
+	 "While You Were Sleeping": 2.5,
+	 "Phone Booth": 3.0
+ },
+    
+ "Drew Barrymore": 
+ {
+	 "Shrek": 3.0,
+	 "V for Vendetta": 3.5,
+	 "Star Wars": 3.5,
+	 "Divergent":2.0,
+	 "Pretty Woman": 1.5,
+	 "My sister's Keeper":4.0,
+	 "Phone Booth": 3.0,
+	 "While You Were Sleeping": 3.5
+ },
+ 
+    
+ "Tom Hanks": 
+ {
+	 "V for Vendetta": 3.5,
+	 "Pretty Woman": 3.0,
+	 "Phone Booth": 4.5,
+	 "Star Wars": 4.0,
+	 "While You Were Sleeping": 2.5,
+	 "I am Legend":3.5
+ },
+ 
+ "Sandra Bullock": 
+ {
+	 "Shrek": 3.0,
+	 "V for Vendetta": 4.0,
+	 "Pretty Woman": 2.0,
+	 "Star Wars": 3.0,
+	 "I am Legend":4.5,
+	 "My sister's Keeper":3.5, 
+	 "Phone Booth": 3.0,
+	 "While You Were Sleeping": 2.0
+ },
+ 
+ "Zac Efron": 
+ {
+	 "Shrek": 3.0,
+	 "V for Vendetta": 4.0,
+	 "Phone Booth": 3.0,
+	 "Star Wars": 5.0,
+	 "While You Were Sleeping": 3.5
+ },
+ 
+ "Cameron Diaz": 
+ {
+	 "V for Vendetta":4.5,
+	 "While You Were Sleeping":1.0,
+	  "Notting Hill":3.5,
+	  "Legally Blonde":3.0,
+	  "Coco":5.0,
+	 "Marley and Me":4.5, 
+	 "Star Wars":4.0
+ },
+    
+ "Will Smith": 
+ {
+	 "Shrek": 3.0,
+	 "V for Vendetta": 5.0,
+	  "A Walk To Remember": 5.0,
+	 "My sister's Keeper":4.0,
+	 "Star Wars": 4.0,
+	 "While You Were Sleeping": 0.5,
+	 "I am Legend":4.5
+ },
+    
+ "Kate Winslet": 
+ {
+	 "Shrek": 2.5,
+	 "V for Vendetta": 3.0,
+	  "A Walk To Remember": 4.0,
+	 "Star Wars": 3.5,
+	 "Phone Booth": 4.0
+ },
+ 
+ "Ryan Gosling": 
+ {
+	 "V for Vendetta": 5.0,
+	 "Star Wars": 4.0,
+	  "Coco":5.0,
+	 "Marley and Me":4.5,
+	 "While You Were Sleeping": 0.5,
+	 "House at the End of the Street": 3.5
+ },
+
+ "Liam Hemsworth": 
+	 {"A Walk To Remember": 4.0,
+	 "Divergent":3.0,
+	 "Coco":5.0,
+	 "Star Wars": 3.5,
+	 "Chasing Liberty":3.5,
+	 "Notting Hill":4.0
+ },
+
+ "Jennifer Lawrence":{
+ "Legally Blonde":4.0,
+ "Notting Hill":3.5,
+ "Pretty Woman": 3.0,
+ "A Walk To Remember":5.0,
+ "Letters to Juliet":4.5},
+    
+ "Scarlett Johansson": {"We Bought a Zoo":5.0,
+ "Pretty Woman": 2.0,
+ "V for Vendetta":4.5,
+ "While You Were Sleeping": 3.0},
+    
+ "Adam Sandler": {"My sister's Keeper":5.0,
+ "Star Wars": 3.5,
+ "A Walk To Remember": 4.5,
+ "Chasing Liberty":3.5,
+ "Divergent":2.0},
+    
+ "Scott Eastwood": {"Legally Blonde":3.0,
+ "Coco":5.0,
+ "Marley and Me":4.5,
+ "Notting Hill":3.5},
+    
+ "Emma Stone": {"Clueless":3.0,
+ "Little Miss Sunshine":4.0,
+ "If Only": 3.5,
+ "Freedom Writers":4.0,
+ "Eight Below":3.5}
+} 
